@@ -1,0 +1,101 @@
+body{
+    background-color:#fff;
+    font-size: medium;
+    font-family:"Gamja flower"
+    ;
+}
+
+header{
+    background-color: #e4572e;
+    font-size: 10px;
+    font-family: "Chelsea market";
+    text-align: center;
+    text-shadow: 1px 1px #fff;
+    padding: 4px 4px;
+    line-height: 1.0em;
+}
+
+.main{
+    font-family: "Gamja flower";
+    margin: auto;
+    width: 70%;
+
+}
+
+.first{
+   border: 4px solid #e4572e;
+   box-sizing: border-box;
+   box-shadow: 3px 3px 0 0;
+   margin-bottom: 10px;
+   margin-top: 10px;
+   min-height: 150px;
+   line-height: 1.0em;
+   padding-left: 4px;
+}
+
+.second{
+    border: 4px solid #e4572e;
+   box-sizing: border-box;
+   box-shadow: 3px 3px 0 0;
+   margin-bottom: 10px;
+   min-height: 200px;
+   line-height: 1.0em;
+   padding-left: 5px;
+}
+
+.image{
+    float: right;
+    height: 90px;
+    padding-right: 3px;
+    padding-top: 3px;
+
+}
+
+.form{
+    margin-left: 26%;
+    margin-right: 26%;
+    margin-bottom: 7%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.form-p{
+    border: 4px solid #050401;
+    margin-right: 4%;
+    margin-left: 4%;
+    float: left;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    box-sizing: border-box;
+    padding: 6px;
+}
+
+.form input{
+    border: 0;
+    background-color: transparent;
+}
+
+.form{
+    display: flex;
+}
+
+.sign{
+    margin: auto;
+    width: 20%;
+}
+
+.stay{
+    margin: auto;
+    width: 20%;
+}
+
+.join{
+    margin: auto;
+    width: 20%;
+}
+
+.form{
+    border-bottom: 4px 4px 0 0 #e4572e;
+    border-width: 1px solid black;
+}
